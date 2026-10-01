@@ -1,0 +1,11 @@
+[✓] README.md states synthetic accuracy: 12.89%
+[✓] README.md states real/random accuracy: 11.79%
+[✓] README.md explicitly calls out ~1 percentage point gain
+[✓] README.md notes result is barely above 10% random chance
+[✓] README.md documents 100-image synthetic setup (10 per class)
+[✓] README.md lists limitations (weak signal, SimpleCNN, training noise)
+[✓] RESULTS.md states synthetic accuracy: 12.89%
+[✓] RESULTS.md states real/random accuracy: 11.79%
+[✓] RESULTS.md explicitly calls out marginal ~1 point gain
+[✓] RESULTS.md documents evaluation protocol (SimpleCNN, 10 epochs)
+[✓] RESULTS.md lists limitations
