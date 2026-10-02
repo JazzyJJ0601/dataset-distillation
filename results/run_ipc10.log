@@ -1,0 +1,32 @@
+random subset 0: 0.3413
+random subset 1: 0.3637
+random subset 2: 0.3597
+random subset 3: 0.3175
+random subset 4: 0.3255
+  iter     0  loss 239.00  0s
+  iter  1000  loss 49.01  41s
+  iter  2000  loss 48.03  84s
+  iter  3000  loss 44.03  145s
+  iter  4000  loss 45.24  200s
+  iter  5000  loss 45.48  241s
+  iter  6000  loss 42.65  282s
+  iter  7000  loss 46.94  323s
+  iter  8000  loss 43.33  364s
+  iter  9000  loss 44.67  405s
+  iter 10000  loss 37.98  446s
+  iter 11000  loss 41.25  487s
+  iter 12000  loss 43.53  528s
+  iter 13000  loss 44.50  569s
+  iter 14000  loss 42.65  610s
+  iter 15000  loss 45.35  651s
+  iter 16000  loss 41.06  692s
+  iter 17000  loss 40.72  733s
+  iter 18000  loss 41.35  774s
+  iter 19000  loss 43.72  815s
+  iter 19999  loss 43.33  856s
+distilled eval 0: 0.5082
+distilled eval 1: 0.5103
+distilled eval 2: 0.5103
+distilled eval 3: 0.5146
+distilled eval 4: 0.4946
+{"random_mean": 0.34154, "random_std": 0.01819951647709357, "dm_mean": 0.5076, "dm_std": 0.006825540271656148}
